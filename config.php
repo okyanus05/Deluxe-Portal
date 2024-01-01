@@ -29,7 +29,7 @@ $dbhost = 'localhost';
 $dbuser = 'root';
 $dbpass = '';
 $dbname = 'portal';
-$technical_email = 'webmaster@yoursite.com';
+$technical_email = 'eposta@exlampe.com';
 $admincp_dir = 'admincp';
 $modcp_dir = 'modcp';
 ?>
