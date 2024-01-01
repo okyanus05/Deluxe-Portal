@@ -1,0 +1,1 @@
+We would like to develop Deluxe Portal 2.0 version together with you, our valued programmer friends. Deluxe Portal is, as its name suggests, a portal and content management system. I want to make it better together
